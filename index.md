@@ -4,7 +4,7 @@ tags: [home]
 
 # Maddison Hellstrom
 
-Maddison is a human person who writes code, talks about technology & business, and breathes air through a mask. 
+Maddison is a human person who writes code, talks about technology & business, and breathes air through a mask (usually). 
 
 She would like you to know that you are awesome and have a great smile. Stay awesome, person.
 
