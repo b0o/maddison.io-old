@@ -14,3 +14,4 @@ Some day there may be more stuff here, but for now: sayonara!
 
 - [GitHub](https://github.com/b0o) 
 - [Twitter](https://twitter.com/HellsMaddy)
+- <a rel="me" href="https://mstdn.io/@b0o">Mastodon</a>
