@@ -2,7 +2,7 @@
 tags: [home]
 ---
 
-# Maddison Hellstrom
+# Maddison Cohodas
 
 Maddison is a human person who writes code, talks about technology & business, and breathes air through a mask (usually). 
 
